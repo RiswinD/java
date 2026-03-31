@@ -1,9 +1,9 @@
 
-//Print all even numbers from 1 to 20.
-public class problem_2 {
+//Print numbers from 10 to 1
+public class problem_3 {
     public static void main(String args[])
     {
-        for (int i=2;i<=20;i=i+2)
+        for (int i=10;i>=1;i--)
         {
             System.out.println(i);
         }
