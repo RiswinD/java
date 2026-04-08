@@ -1,3 +1,4 @@
+package day_2;
 //Print all numbers from 1 to 50 that are divisible by 3 but not by 6.
 public class problem_6 {
     public static void main(String arg[])
