@@ -5,7 +5,7 @@
 ****
 *****
  */
-import java.util.*;
+
 public class problem_11 {
     public static void main (String arg[])
     {
